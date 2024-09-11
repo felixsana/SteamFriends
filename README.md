@@ -148,3 +148,4 @@
 | ![](https://avatars.steamstatic.com/d23cdc8d02032dba31752edb4af774bdd5609bc6.jpg) | 比你快乐               | [76561199005584195](https://steamcommunity.com/profiles/76561199005584195/) | ✅           | 2020-04-15 10:14:44 |          |
 | ![](https://avatars.steamstatic.com/27bb2f7628eb6ef2711cf377cba3ddd3c2a3a41e.jpg) | 忍野刃下心❀Bella        | [76561199177337207](https://steamcommunity.com/profiles/76561199177337207/) | ✅           | 2022-06-20 02:29:28 |          |
 | ![](https://avatars.steamstatic.com/8f1d5296d93cc8edfc457504499e5f5535779af7.jpg) | E.Williams         | [76561199517807447](https://steamcommunity.com/profiles/76561199517807447/) | ✅           | 2024-05-09 10:09:53 |          |
+| ![](https://avatars.steamstatic.com/cd93255bdaec83da3420f9c426f5d8059b886924.jpg) | Sonic853           | [76561198129129355](https://steamcommunity.com/profiles/76561198129129355/) | ✅           | 2024-09-10 08:07:38 |          |
